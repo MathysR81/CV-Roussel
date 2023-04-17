@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Manrope:wght@500&family=Montserrat&family=Press+Start+2P&display=swap');
+
+H1{ border: green ;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Press Start 2P', sans-serif;
+    align-items: center;}
+
+a{color:rgb(0, 0, 0);
+font-weight:bold;}
+
+em{color:#168314d6;}
+
+body {
+  
+     background :url(images/fond-monochrome-blanc-style-papier_52683-66443.avif);
+     background-size: cover;
+
+
+}
+
+li{
+font-size: larger;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.TOTO ol{
+    padding: 0;
+    display: flex;
+    justify-content: space-around
+    
+     }
+     ol, p {
+        background: rgba(255, 255, 255, 0.66);
+    }   
